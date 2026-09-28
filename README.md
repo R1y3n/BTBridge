@@ -1,6 +1,6 @@
 BTBridge
 
-BTBridge is a Bluetooth data forwarding and bridging tool designed for Linux.
+BTBridge is a Bluetooth data forwarding and bridging tool designed for Linux only.
 
 The project focuses on connecting two or more Bluetooth endpoints and forwarding data between them as transparently as possible. Depending on the Bluetooth communication method being used, BTBridge can act as an intermediary between devices, receiving data from one endpoint and forwarding it to another.
 
